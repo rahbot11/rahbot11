@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Welcome to Rashawn Labs
 
-<!--
-**rahbot11/rahbot11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Rashawn Labs** is a cutting-edge project focused on building innovative Web3 tools, crypto infrastructure, and algorithmic trading automation — starting with a powerful ETH/USDC arbitrage dashboard.
 
-Here are some ideas to get you started:
+### 🚀 Current Project
+**🔁 ETH/USDC Arbitrage Bot Dashboard**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Arbitrages between **Uniswap** and **SushiSwap**
+- Live price feeds, trade simulation, real testnet swaps
+- Built with **React**, **Flask (Python)**, **Ethers.js**, **Sepolia Testnet**
+- Integrated Onramper for fiat off-ramps via MetaMask
+
+---
+
+### 🔧 Tech Stack
+- `React.js` (Frontend)
+- `Python Flask` (Backend)
+- `MetaMask` Wallet Integration
+- `Uniswap / SushiSwap` Smart Contracts
+- `Sepolia Testnet`, `ETH / USDC`
+
+---
+
+### 💼 Purpose
+This is a personal R&D project used to demonstrate the capabilities of decentralized trading logic, UX-focused dApps, and full-stack smart contract integration for future clients and partners.
+
+---
+
+📫 Contact: **rahbusiness11@gmail.com**
+
+🔗 Live Preview Coming Soon…
